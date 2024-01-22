@@ -29,7 +29,6 @@ namespace ToDoConsole
             ToDo.loadList();
             Console.WriteLine(ToDo.ToString());
 
-
             //WindowsNotification();
             //ReminderTest(ToDo.GetItem(2));
 
